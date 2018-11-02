@@ -1,5 +1,5 @@
 Temporal anomaly detection: calibrating the surprise
-NIPS submission
+
 README for the TDA database 
 
 
